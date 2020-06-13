@@ -7,7 +7,9 @@ from selenium import webdriver
 import argparse
 from selenium.webdriver.firefox.options import Options
 from lxml import html
+import re 
 
+TARGET = 2
 
 # ALL COMMENTS ABOVE TRANSITION FUNCTIONS PROVIDED BY ROBULA+ AUTHORS 
 # INSERT LINK HERE
@@ -60,9 +62,8 @@ def transfAddAttribute(xp, attributes, tagname):
     elements = temp.split("/")
     target = elements[0]
     attrstrings = []
-    xpaths = []
-    # soup might not return empty as empty dict, check for errors later on 
-    if attributes != {}: 
+    xpaths = [] 
+    if attributes != []: 
         for key in attributes: 
             attrstrings.append("[@" + key + "=\"" + attributes[key][0] + "\"]")
         for attr in attrstrings: 
@@ -86,6 +87,8 @@ def transfAddLevel(xp, n, l):
         return "//*" + xp
     else: 
         return xp 
+
+# assert transfAddLevel('') == 
 
 
 ### AUXILARY FUNCTIONS 
@@ -111,38 +114,68 @@ def eval(xpath, document):
 # Has to be changed to uniquely locates as we are making a generic xpath
 # Algorithm: If the xpath generated sends us back the same list of elems,
 # then the xpath can generalize to finding a group of elems
-def uniquelyLocates(xpath, document, elems):
-    return True
+def generalLocates(xpath, document, elem):
+    # Query the document using the xpath passed in
+    # if the result is similar to elems, then return True,
+    # else return False 
+    # TESTING REQUIRED, BUT BEING 1 or 2 off is our current design choice 
+    elems = eval(xpath, document)
+    elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+    # print("XPATH: " + xpath)
+    # print("ELEM: " + elem)
+    # print("ELEMS: ", elems)
+    return elem in elems
 
 def getAttributes(elem, tagname):
+    # Parse tagname and remove positions first 
+    pattern = re.compile(r'(\[[\d]*)')
+    match = pattern.findall(tagname)
+    fixed = ""
+    if len(match) > 0:
+        match = pattern.findall(tagname)[0] + "]"
+        fixed = tagname.replace(match, "")
+    else: 
+        fixed = tagname
     soup = BeautifulSoup(elem, 'lxml')
-    tag = soup.find(tagname)
-    return tag.attrs
+    # print("Tagname: " + fixed)
+    tag = soup.find(fixed)
+    if tag == None:
+        # tags = soup.find("class")
+        return [] 
+    else:
+        return tag.attrs
 
-def RobulaPlus(xpath, elem, pathL): 
-    XList = ["//*"]
-    ctr = 0
-    while True:
-        xp = XList.pop(0) # pop front of list
-        temp = []
-        currN = pathL[N(xp) - 1]
-        xp1 = transfConvertStar(xp, currN)
-        temp.append(xp1)
-        xp2 = transfAddAttribute(xp1, getAttributes(elem, currN), currN)
-        if len(xp2) >= 1:
-            for x in xp2: 
-                temp.append(x) 
-                temp.append(transfAddLevel(x, N(x), len(pathL)))
-        else: 
-            temp.append(transfAddLevel(xp1,N(xp1), pathL))
-        for t in temp: 
-            XList.append(t)
-        print(temp)
-        if ctr == 5: 
-            break
-        ctr += 1
+def RobulaPlus(xpath, elems, pathL, doc): 
+    xpath_list = []
+    for elem in elems:
+        # print("IM HERE")
+        stringified = html.tostring(elem).decode('utf-8')
+        print("ELEM: " + stringified)
+        XList = ["//*"]
+        while True:
+            xp = XList.pop(0) # pop front of list
+            temp = []
+            currN = pathL[N(xp) - 1]
+            xp1 = transfConvertStar(xp, currN)
+            temp.append(xp1)
+            print("BEFORE ADD ATTRIBUTES: ", temp)
+            xp2 = transfAddAttribute(xp1, getAttributes(stringified, currN), currN)
+            print("AFTER ADD ATTRIBUTES: ", temp)
+            if len(xp2) >= 1:
+                for x in xp2: 
+                    temp.append(x) 
+                    temp.append(transfAddLevel(x, N(x), len(pathL)))
+            else: 
+                temp.append(transfAddLevel(xp1,N(xp1), len(pathL)))
 
-
+            # print(temp)
+            for t in temp[::-1]: 
+                if generalLocates(t, doc, stringified):
+                    xpath_list.append(t)
+                    if len(xpath_list) == TARGET: 
+                        return xpath_list
+                else: 
+                    XList.append(t)
 
 def Parse():
     parser = argparse.ArgumentParser(description='First attempt to auto-generate unique descriptive xpaths')
@@ -175,21 +208,51 @@ def main():
     elems = eval(xpath, document)
     pathL = L(xpath)
     print(pathL)
-    for elem in elems:
-        stringified = html.tostring(elem).decode('utf-8')
-        print("ELEM: " + stringified)
+    new_xpaths = RobulaPlus(xpath, elems, pathL[::-1], document)
+    # filter out all xpaths with star as final check 
+    filtered = []
+    for xp in new_xpaths: 
+        if "//*" not in xp: 
+            filtered.append(xp)
 
-        new_xpath = RobulaPlus(xpath, stringified, pathL[::-1])
+    print("OVERALL XPATHS FOUND: ", new_xpaths)
+    print("FILTERED XPATHS FOUND: ", filtered)
 
-        
-    
-    driver.close()
-    driver.quit()
+    # TAKING ALL URLS FROM FIRST XPATH FROM FILTERED
+    with open("mfa-urls.txt", "w") as f: 
+        xpath = filtered[0]
+        elems = eval(xpath, document)
+        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+        for elem in elems: 
+            url = elem.split("href=")
+            f.write(url[1])
 
+    # TAKING ALL ps FROM FILTERED     
+    # with open("desc.txt", "w") as f: 
+    #     xpath = filtered[0]
+    #     elems = eval(xpath, document)
+    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+    #     for elem in elems: 
+    #         url = elem.split("<p>")
+    #         f.write(url[1])
 
-
-
-
+    # DATES
+    # with open("dates.txt", "w") as f: 
+    #     xpath = filtered[0]
+    #     elems = eval(xpath, document)
+    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+    #     for elem in elems: 
+    #         url = elem.split("class=")
+    #         f.write(url[1])
+    #     # print(len(elems))
+    # driver.close()
+    # driver.quit()
 
 if __name__ == '__main__':
     main()
+
+
+# title       : //a[@class="url"]/text()
+# description : //div[3][@class="fusion-post-content-container"]
+# date        : //span[1][@class="tribe-event-date-start"]
+    
