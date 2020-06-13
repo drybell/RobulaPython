@@ -14,3 +14,5 @@ Next steps: begin unit testing, fix transfAddlevel, implement removeposition.
 ## June 13th 2020
 Able to get a general xpath for all urls, descriptions, and dates for newartcenter. 
 We found 65 events within newartcenter/classes, their dates, instructors, and descriptions. 
+Next steps include starting with an absolute xpath and working up the tree to remove 
+text overhead found within example log txt files like mfa-title.txt

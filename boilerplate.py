@@ -158,15 +158,16 @@ def RobulaPlus(xpath, elems, pathL, doc):
             currN = pathL[N(xp) - 1]
             xp1 = transfConvertStar(xp, currN)
             temp.append(xp1)
-            print("BEFORE ADD ATTRIBUTES: ", temp)
+            # print("BEFORE ADD ATTRIBUTES: ", temp)
             xp2 = transfAddAttribute(xp1, getAttributes(stringified, currN), currN)
-            print("AFTER ADD ATTRIBUTES: ", temp)
             if len(xp2) >= 1:
                 for x in xp2: 
                     temp.append(x) 
                     temp.append(transfAddLevel(x, N(x), len(pathL)))
+                    # print("AFTER ADD ATTRIBUTES: ", temp)
             else: 
                 temp.append(transfAddLevel(xp1,N(xp1), len(pathL)))
+                # print("AFTER ADD ATTRIBUTES ELSE: ", temp)
 
             # print(temp)
             for t in temp[::-1]: 
@@ -219,13 +220,13 @@ def main():
     print("FILTERED XPATHS FOUND: ", filtered)
 
     # TAKING ALL URLS FROM FIRST XPATH FROM FILTERED
-    with open("mfa-urls.txt", "w") as f: 
-        xpath = filtered[0]
-        elems = eval(xpath, document)
-        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-        for elem in elems: 
-            url = elem.split("href=")
-            f.write(url[1])
+    # with open("mfa-urls.txt", "w") as f: 
+    #     xpath = filtered[0]
+    #     elems = eval(xpath, document)
+    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+    #     for elem in elems: 
+    #         url = elem.split("href=")
+    #         f.write(url[1])
 
     # TAKING ALL ps FROM FILTERED     
     # with open("desc.txt", "w") as f: 
@@ -237,16 +238,15 @@ def main():
     #         f.write(url[1])
 
     # DATES
-    # with open("dates.txt", "w") as f: 
-    #     xpath = filtered[0]
-    #     elems = eval(xpath, document)
-    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-    #     for elem in elems: 
-    #         url = elem.split("class=")
-    #         f.write(url[1])
-    #     # print(len(elems))
-    # driver.close()
-    # driver.quit()
+    with open("mfa-title.txt", "w") as f: 
+        xpath = filtered[0]
+        elems = eval(xpath, document)
+        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+        for elem in elems: 
+            f.write(elem + "\n")
+        print(len(elems))
+    driver.close()
+    driver.quit()
 
 if __name__ == '__main__':
     main()
