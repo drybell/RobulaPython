@@ -10,6 +10,9 @@ from lxml import html
 import re 
 
 TARGET = 2
+XLIST_TARGET = 100
+XLIST_RETURN = 10
+blacklist_tags = ['href', 'id', 'role', 'type']
 
 # ALL COMMENTS ABOVE TRANSITION FUNCTIONS PROVIDED BY ROBULA+ AUTHORS 
 # INSERT LINK HERE
@@ -58,15 +61,28 @@ def transfConvertStar(xp, tagname):
 
 def transfAddAttribute(xp, attributes, tagname):
     # parse attributes 
+    global blacklist_tags
     temp = xp.replace("//", "")
     elements = temp.split("/")
     target = elements[0]
-    attrstrings = []
-    xpaths = [] 
+    xpaths = []
+    if "[@" in target: 
+        xpaths.append('//' + target + xp[(2+len(target)):])
+        return xpaths
+    attrstrings = [] 
+    # TODO: Maybe make attribute parsing a function? Esp with blacklist involved...
+    seen_keys = []
     if attributes != []: 
         for key in attributes: 
-            attrstrings.append("[@" + key + "=\"" + attributes[key][0] + "\"]")
+            if key not in blacklist_tags and key not in seen_keys:
+                if type(attributes[key]) == list:
+                    attrstrings.append("[@" + key + "=\"" + attributes[key][0] + "\"]")
+                else: 
+                    attrstrings.append("[@" + key + "=\"" + attributes[key] + "\"]")
+            seen_keys.append(key)
         for attr in attrstrings: 
+            # print("TARGET: %s ATTR: %s ENDPOINT: %s" % (target, attr, xp[(2+len(target)):] ))
+            # print('//' + target + attr + xp[(2+len(target)):])
             xpaths.append('//' + target + attr + xp[(2+len(target)):])
     return xpaths
 
@@ -74,8 +90,16 @@ def transfAddAttribute(xp, attributes, tagname):
 #       Action: add the position of the element L.get(N) to the higher level of xp 
 #      Example: INPUT:  xp = //tr/td and L.get(2).getPosition() = {if tag-name=2, if '*'=3}
 #				OUTPUT: //tr[2]/td
-def transfRemovePosition():
-    return None 
+def transfRemovePosition(tagname):
+    pattern = re.compile(r'(\[[\d]*)')
+    match = pattern.findall(tagname)
+    fixed = ""
+    if len(match) > 0:
+        match = pattern.findall(tagname)[0] + "]"
+        fixed = tagname.replace(match, "")
+    else: 
+        fixed = tagname
+    return fixed 
 
 # Precondition: N < L.length()
 #       Action: add //* at the top of xp 
@@ -119,57 +143,75 @@ def generalLocates(xpath, document, elem):
     # if the result is similar to elems, then return True,
     # else return False 
     # TESTING REQUIRED, BUT BEING 1 or 2 off is our current design choice 
-    elems = eval(xpath, document)
-    elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-    # print("XPATH: " + xpath)
-    # print("ELEM: " + elem)
-    # print("ELEMS: ", elems)
-    return elem in elems
+    # IF IT HAS NO ATTRIBUTES TO WORK WITH, IT IS TOO GENERAL FOR US 
+    print("IS %s LOCATABLE IN THE DOM?" % (xpath))
+    if "[" not in xpath: 
+        print("NO")
+        return False
+    else:
+        elems = eval(xpath, document)
+        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+        # print("XPATH: " + xpath)
+        # print("ELEM: " + elem)
+        # print("ELEMS: ", elems)
+        print(elem in elems)
+        return elem in elems
 
 def getAttributes(elem, tagname):
     # Parse tagname and remove positions first 
-    pattern = re.compile(r'(\[[\d]*)')
-    match = pattern.findall(tagname)
-    fixed = ""
-    if len(match) > 0:
-        match = pattern.findall(tagname)[0] + "]"
-        fixed = tagname.replace(match, "")
-    else: 
-        fixed = tagname
+    fixed = transfRemovePosition(tagname)
     soup = BeautifulSoup(elem, 'lxml')
-    # print("Tagname: " + fixed)
     tag = soup.find(fixed)
+
     if tag == None:
         # tags = soup.find("class")
         return [] 
     else:
         return tag.attrs
 
+def buildXPath(xpath_list):
+    string = "//"
+    for elem in xpath_list:
+        string += elem + "/"
+    return string[:-1]
+
+
 def RobulaPlus(xpath, elems, pathL, doc): 
+    # global XLIST_TARGET, XLIST_RETURN
     xpath_list = []
+    reverseL = pathL[::-1]
     for elem in elems:
         # print("IM HERE")
         stringified = html.tostring(elem).decode('utf-8')
-        print("ELEM: " + stringified)
+        # print("ELEM: " + stringified)
         XList = ["//*"]
         while True:
+            print("XPATHLIST: ", XList)
             xp = XList.pop(0) # pop front of list
             temp = []
             currN = pathL[N(xp) - 1]
+            new_elems = eval(buildXPath(reverseL[:-(N(xp) - 1)]), doc)
+            new_elem = ""
+            if len(new_elems) >= 1:    
+                new_elem = html.tostring(new_elems[0]).decode('utf-8')
             xp1 = transfConvertStar(xp, currN)
             temp.append(xp1)
             # print("BEFORE ADD ATTRIBUTES: ", temp)
-            xp2 = transfAddAttribute(xp1, getAttributes(stringified, currN), currN)
+            xp2 = transfAddAttribute(xp1, getAttributes(new_elem, currN), currN)
+
             if len(xp2) >= 1:
                 for x in xp2: 
-                    temp.append(x) 
+                    temp.append(x)
                     temp.append(transfAddLevel(x, N(x), len(pathL)))
                     # print("AFTER ADD ATTRIBUTES: ", temp)
-            else: 
+            else:             
                 temp.append(transfAddLevel(xp1,N(xp1), len(pathL)))
                 # print("AFTER ADD ATTRIBUTES ELSE: ", temp)
 
-            # print(temp)
+            for i, item in enumerate(temp): 
+                temp[i] = transfRemovePosition(item)
+
+            # print("TEMP: ", temp[::-1])
             for t in temp[::-1]: 
                 if generalLocates(t, doc, stringified):
                     xpath_list.append(t)
@@ -204,7 +246,7 @@ def main():
     page = driver.execute_script("return document.body.innerHTML").encode('utf-8')
     # soup = BeautifulSoup(page, "html.parser")
     document = html.fromstring(page)
-    # print(html.tostring(document).decode('utf-8'))
+    # print(html.tostring(document).decode('utf-8')) 
 
     elems = eval(xpath, document)
     pathL = L(xpath)
@@ -213,7 +255,7 @@ def main():
     # filter out all xpaths with star as final check 
     filtered = []
     for xp in new_xpaths: 
-        if "//*" not in xp: 
+        if not xp.startswith("//*"): 
             filtered.append(xp)
 
     print("OVERALL XPATHS FOUND: ", new_xpaths)
@@ -238,21 +280,26 @@ def main():
     #         f.write(url[1])
 
     # DATES
-    with open("mfa-title.txt", "w") as f: 
+    with open("logs/artsboston/title.txt", "w") as f: 
         xpath = filtered[0]
         elems = eval(xpath, document)
         elems = [html.tostring(elem).decode('utf-8') for elem in elems]
         for elem in elems: 
             f.write(elem + "\n")
-        print(len(elems))
+        print("FOUND %d ELEMENTS FROM OUR MORE GENERAL XPATH" % (len(elems)))
     driver.close()
     driver.quit()
+    # exit(1) # So Firefox Headless can close 
 
 if __name__ == '__main__':
     main()
 
 
+# MFA XPATHS FOUND 
 # title       : //a[@class="url"]/text()
 # description : //div[3][@class="fusion-post-content-container"]
 # date        : //span[1][@class="tribe-event-date-start"]
+
+# UMBRELLA ARTS XPATHS FOUND 
+# title       : //span[@class="field-content"]/a
     
