@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.firefox.options import Options
 
 url = "https://newartcenter.org/classes/"
+WHITELIST = ["li", "tr", "p", "h2", "h3"]
+TEST = 'div'
 
 def xpath_soup(element):
     components = []
@@ -21,6 +23,11 @@ def xpath_soup(element):
     components.reverse()
     return '/%s' % '/'.join(components)
 
+def get_paths(els):
+    abs_xpaths = []
+    for elem in els: 
+        abs_xpaths.append("//*" + xpath_soup(elem))
+    return abs_xpaths
 
 opts = Options()
 opts.headless = True
@@ -28,18 +35,18 @@ driver = webdriver.Firefox(options=opts)
 driver.get(url)
 page = driver.execute_script("return document.body.innerHTML").encode('utf-8')
 soup = BeautifulSoup(page, "html.parser")
+# print(soup.find_all)
 
-elems = soup.find_all("li")
+elems = soup.find_all(TEST)
 
-def get_paths(els):
-    abs_xpaths = []
-    for elem in els: 
-        abs_xpaths.append(xpath_soup(elem))
-    return abs_xpaths
+paths = get_paths(elems)
+print(paths)
 
-def elems():
-    global elems
-    return elems
+
+
+# def elems():
+#     global elems
+#     return elems
 
 
 

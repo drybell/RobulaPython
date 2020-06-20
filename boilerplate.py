@@ -144,7 +144,7 @@ def generalLocates(xpath, document, elem):
     # else return False 
     # TESTING REQUIRED, BUT BEING 1 or 2 off is our current design choice 
     # IF IT HAS NO ATTRIBUTES TO WORK WITH, IT IS TOO GENERAL FOR US 
-    print("IS %s LOCATABLE IN THE DOM?" % (xpath))
+    # print("IS %s LOCATABLE IN THE DOM?" % (xpath))
     if "[" not in xpath: 
         print("NO")
         return False
@@ -186,7 +186,7 @@ def RobulaPlus(xpath, elems, pathL, doc):
         # print("ELEM: " + stringified)
         XList = ["//*"]
         while True:
-            print("XPATHLIST: ", XList)
+            # print("XPATHLIST: ", XList)
             xp = XList.pop(0) # pop front of list
             temp = []
             currN = pathL[N(xp) - 1]
@@ -280,13 +280,18 @@ def main():
     #         f.write(url[1])
 
     # DATES
-    with open("logs/artsboston/title.txt", "w") as f: 
-        xpath = filtered[0]
-        elems = eval(xpath, document)
-        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-        for elem in elems: 
-            f.write(elem + "\n")
-        print("FOUND %d ELEMENTS FROM OUR MORE GENERAL XPATH" % (len(elems)))
+    # with open("logs/artsboston/title.txt", "w") as f: 
+    #     xpath = filtered[0]
+    #     elems = eval(xpath, document)
+    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+    #     for elem in elems: 
+    #         f.write(elem + "\n")
+    #     print("FOUND %d ELEMENTS FROM OUR MORE GENERAL XPATH" % (len(elems)))
+    xpath = filtered[0]
+    elems = eval(xpath, document)
+    elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+    for elem in elems: 
+        print(elem)
     driver.close()
     driver.quit()
     # exit(1) # So Firefox Headless can close 
@@ -303,3 +308,8 @@ if __name__ == '__main__':
 # UMBRELLA ARTS XPATHS FOUND 
 # title       : //span[@class="field-content"]/a
     
+
+# EVERYTHING IN BETWEEN >< BUT NOT HAVING ANOTHER > INSIDE: (?<=\>)[^>]+(?=\<)
+# Dates REGEX: (\>\w*\D\d+\s*\<)
+# Title/Description REGEX: (\>\w*\D+\s*\<) (Will miss numbers, sadly)
+# Image: 
