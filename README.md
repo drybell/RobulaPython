@@ -3,7 +3,7 @@
 Our version takes in an absolute xpath and a url, and outputs a generic xpath that can identify all elements above the element caught by the initial xpath passed in. (TOO WORDY)
 
 # How to Run: 
-`python3 boilerplate.py -u https://a-url-that-you-like.com -x //a/valid/xpath/here`
+`python3 boilerplate.py -u https://a-url-that-you-like.com -x "//a/valid/xpath/here"`
 
 # Data log 
 
@@ -16,3 +16,6 @@ Able to get a general xpath for all urls, descriptions, and dates for newartcent
 We found 65 events within newartcenter/classes, their dates, instructors, and descriptions. 
 Next steps include starting with an absolute xpath and working up the tree to remove 
 text overhead found within example log txt files like mfa-title.txt
+
+## June 20th 2020 
+Able to strip all unnecessary html from output logs using simple regex. A little issue with handling UTF-8 encodings of right double quotes, currently ignoring any errors (\x9d is the weirdest encoding we've gotten). We tested on the current log data and outputted "fixed" versions of the logs. Still working on generating absolute xpaths to feed Robula. 
