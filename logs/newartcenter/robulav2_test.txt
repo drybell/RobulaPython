@@ -1,0 +1,161 @@
+<span class="screen-reader-text">Go to "New Art @ Home"</span>
+
+<span class="screen-reader-text">Go to "Private Acting and Presentation Coaching HS/Adults &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Acting: Creative Dramatics &#226;&#128;&#147; GR 3-5 &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Contemporary Explorations &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Sketchbook and Illustration GR 6-8 &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Avery&#226;&#128;&#153;s Art Studio GR 3-5 &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Drawing and Painting GR 6-8 &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Drawing Boot Camp GR 8-12 &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Watercolor Flowers: Tight and Loose &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Zoom Beginning Cartooning GR 2-4 &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Painting with Color &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Painting &#226;&#128;&#147; Oil and Acrylic &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Supercharged Painting &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Painting &#226;&#128;&#147; Oil and Acrylic &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Watercolor Explorations &#226;&#128;&#147; AM &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Watercolor Explorations &#226;&#128;&#147; PM &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Nature Studies in Pen, Ink, and Wash &#226;&#128;&#147; June July"</span>
+
+<span class="screen-reader-text">Go to "Painting Beyond Foundations &#226;&#128;&#147; June July"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 1 &#226;&#128;&#147; Photo Camp for Teens &#226;&#128;&#147; GR 7-12"</span>
+
+<span class="screen-reader-text">Go to "Figure-ish (A Drawing Class) &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Ceramics at Home &#226;&#128;&#147; June July"</span>
+
+<span class="screen-reader-text">Go to "Acrylic Painting &#226;&#128;&#147; Line and Wash &#226;&#128;&#147; June July"</span>
+
+<span class="screen-reader-text">Go to "Painting Believable Light: &#226;&#128;&#156;Glow&#226;&#128;&#157; &#226;&#128;&#147; June July"</span>
+
+<span class="screen-reader-text">Go to "Painting Foundations &#226;&#128;&#147; June July"</span>
+
+<span class="screen-reader-text">Go to "Seascapes in Watercolor &#226;&#128;&#147; June July"</span>
+
+<span class="screen-reader-text">Go to "Printing Without a Press Demonstration &#226;&#128;&#147; June"</span>
+
+<span class="screen-reader-text">Go to "Highlights and Hidden Gems of Paris&#226;&#128;&#153;s Museums &#226;&#128;&#147; Workshop Series"</span>
+
+<span class="screen-reader-text">Go to "Highlights and Hidden Gems of Paris&#226;&#128;&#153;s Museums &#226;&#128;&#147; Week 1 &#226;&#128;&#147; Le Mus&#195;&#169;e du Louvre"</span>
+
+<span class="screen-reader-text">Go to "Highlights and Hidden Gems of Paris&#226;&#128;&#153;s Museums &#226;&#128;&#147; Week 2 &#226;&#128;&#147; Le Mus&#195;&#169;e d&#226;&#128;&#153;Orsay"</span>
+
+<span class="screen-reader-text">Go to "Supercharged Painting &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Pastel Landscapes &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Online Week 3 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 3 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 3 &#226;&#128;&#147; Figures and Portraits &#226;&#128;&#147; GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 3 &#226;&#128;&#147; Figures and Portraits &#226;&#128;&#147; GR 8-12"</span>
+
+<span class="screen-reader-text">Go to "Acrylic and Oil Painting &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Painting Beyond Foundations &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Photo Project Development &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Photoshop &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Contemporary Explorations &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Avery&#226;&#128;&#153;s Art Hour, GR K-2"</span>
+
+<span class="screen-reader-text">Go to "Highlights and Hidden Gems of Paris&#226;&#128;&#153;s Museums &#226;&#128;&#147; Week 3 &#226;&#128;&#147; Le Centre Pompidou"</span>
+
+<span class="screen-reader-text">Go to "Avery&#226;&#128;&#153;s Art Studio GR 3-5 &#226;&#128;&#147; July"</span>
+
+<span class="screen-reader-text">Go to "Online Week 4 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 4 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 4 &#226;&#128;&#147; 2D Media/Painting GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 4 &#226;&#128;&#147; 2D Media/Painting GR 8-12"</span>
+
+<span class="screen-reader-text">Go to "Printing Without a Press &#226;&#128;&#147; Gel Plates"</span>
+
+<span class="screen-reader-text">Go to "Highlights and Hidden Gems of Paris&#226;&#128;&#153;s Museums &#226;&#128;&#147; Week 4 &#226;&#128;&#147; Paris&#226;&#128;&#153;s &#226;&#128;&#156;Hotels Particuliers&#226;&#128;&#157;"</span>
+
+<span class="screen-reader-text">Go to "Cold Wax Painting for Oil Painters"</span>
+
+<span class="screen-reader-text">Go to "Online Week 5 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 5 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 5 &#226;&#128;&#147; Drawing Boot Camp GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 5 &#226;&#128;&#147; Drawing Boot Camp GR 8-12"</span>
+
+<span class="screen-reader-text">Go to "Highlights and Hidden Gems of Paris&#226;&#128;&#153;s Museums &#226;&#128;&#147; Week 5 &#226;&#128;&#147; Beyond &#226;&#128;&#156;La typique&#226;&#128;&#157;"</span>
+
+<span class="screen-reader-text">Go to "Painting Believable Light: &#226;&#128;&#156;Glow&#226;&#128;&#157; Demonstration"</span>
+
+<span class="screen-reader-text">Go to "Online Week 6 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 6 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 6 &#226;&#128;&#147; Figures and Portraits GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 6 &#226;&#128;&#147; Figures and Portraits GR 8-12"</span>
+
+<span class="screen-reader-text">Go to "Online Week 7 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 7 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 7 &#226;&#128;&#147; 2D Media/Painting GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 7 &#226;&#128;&#147; 2D Media/Painting GR 8-12"</span>
+
+<span class="screen-reader-text">Go to "Painting Beyond Foundations &#226;&#128;&#147; August"</span>
+
+<span class="screen-reader-text">Go to "Painting Believable Light: &#226;&#128;&#156;Glow&#226;&#128;&#157; &#226;&#128;&#147; August"</span>
+
+<span class="screen-reader-text">Go to "Painting Foundations &#226;&#128;&#147; August"</span>
+
+<span class="screen-reader-text">Go to "Radical Drawing &#226;&#128;&#147; August"</span>
+
+<span class="screen-reader-text">Go to "Painting Beyond Foundations &#226;&#128;&#147; August"</span>
+
+<span class="screen-reader-text">Go to "Online Week 8 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 8 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 8 &#226;&#128;&#147; Drawing Boot Camp GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 8 &#226;&#128;&#147; Drawing Boot Camp GR 8-12"</span>
+
+<span class="screen-reader-text">Go to "Online Week 9 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 9 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 9 &#226;&#128;&#147; Figures and Portraits GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 9 &#226;&#128;&#147; Figures and Portraits GR 8-12"</span>
+
+<span class="screen-reader-text">Go to "Online Week 10 &#226;&#128;&#147; Children GR 2-3"</span>
+
+<span class="screen-reader-text">Go to "Online Week 10 &#226;&#128;&#147; Children GR 4-5"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 10 &#226;&#128;&#147; 2D Media/Painting GR 6-7"</span>
+
+<span class="screen-reader-text">Go to "Online Teen Week 10 &#226;&#128;&#147; 2D Media/Painting GR 8-12"</span>

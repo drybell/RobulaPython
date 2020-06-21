@@ -1,18 +1,21 @@
 # Daniel Ryaboshapka and Sam Chung 
 # Robula+ Implementation in Python 3.7 
-# 
+# Instead of Robula+, its Robula-, since we are outputting more generic xpaths 
 
 from bs4 import BeautifulSoup 
 from selenium import webdriver 
 import argparse
 from selenium.webdriver.firefox.options import Options
-from lxml import html
+from lxml import html, etree
 import re 
+from absolute_xpath import getAbsXpaths
+from timeout import timeout, TimeoutError
 
 TARGET = 2
 XLIST_TARGET = 100
 XLIST_RETURN = 10
 blacklist_tags = ['href', 'id', 'role', 'type']
+TIMEOUT = 5
 
 # ALL COMMENTS ABOVE TRANSITION FUNCTIONS PROVIDED BY ROBULA+ AUTHORS 
 # INSERT LINK HERE
@@ -146,7 +149,7 @@ def generalLocates(xpath, document, elem):
     # IF IT HAS NO ATTRIBUTES TO WORK WITH, IT IS TOO GENERAL FOR US 
     # print("IS %s LOCATABLE IN THE DOM?" % (xpath))
     if "[" not in xpath: 
-        print("NO")
+        # print("NO")
         return False
     else:
         elems = eval(xpath, document)
@@ -154,7 +157,7 @@ def generalLocates(xpath, document, elem):
         # print("XPATH: " + xpath)
         # print("ELEM: " + elem)
         # print("ELEMS: ", elems)
-        print(elem in elems)
+        # print(elem in elems)
         return elem in elems
 
 def getAttributes(elem, tagname):
@@ -175,7 +178,7 @@ def buildXPath(xpath_list):
         string += elem + "/"
     return string[:-1]
 
-
+@timeout(TIMEOUT)
 def RobulaPlus(xpath, elems, pathL, doc): 
     # global XLIST_TARGET, XLIST_RETURN
     xpath_list = []
@@ -224,11 +227,13 @@ def Parse():
     parser = argparse.ArgumentParser(description='First attempt to auto-generate unique descriptive xpaths')
 
     parser.add_argument('-u', dest="url", help="Specify a url to capture valid xpaths")
-    parser.add_argument('-x', dest="xpath", help="Specify an xpath, if quotes (\"\") are included, please backslash escape them", default="//*")
-
+    parser.add_argument('-x', dest="xpath", help="Specify an xpath, if quotes (\"\") are included, please backslash escape them")
+    parser.add_argument('-t', dest="text", help="Specify text to generate the absolute xpaths for you, instead of providing an xpath")
+    parser.add_argument('-o', dest="output", help="Specify an output file to capture filtered xpaths. Defaults to logs/filtered/test.txt", default="logs/filtered/test.txt")
+    parser.add_argument('-o2', dest="html_output", help="Specify an output file to capture scraped html with the first xpath returned")
     args = parser.parse_args()
-    if (not args.url) or (not args.xpath):
-        print("use both url flag AND xpath flag")
+    if not ((args.url and args.xpath) or (args.url and args.text)):
+        print("Please use url and xpath flag, or url and text flags")
         exit()
     else:
         return args
@@ -236,48 +241,64 @@ def Parse():
 def main(): 
     args = Parse()
     url = args.url
-    xpath = args.xpath
+    xpath = ""
     print("Working url: %s" % (url))
-    print("Working xpath: %s" % (xpath))
+    args_flag = ""
+    if args.xpath:
+        print("Working xpath: %s" % (xpath))
+        xpath = args.xpath
+        args_flag = "XPATH"
+    else: 
+        print("Working text xpath: %s" % ('//*[contains(text(),' + '"' + args.text + '")]'))
+        xpath = args.text
+        args_flag = "TEXT"
     opts = Options()
     opts.headless = True
     driver = webdriver.Firefox(options=opts)
     driver.get(url)
     page = driver.execute_script("return document.body.innerHTML").encode('utf-8')
+    driver.close()
+    driver.quit()
     # soup = BeautifulSoup(page, "html.parser")
     document = html.fromstring(page)
     # print(html.tostring(document).decode('utf-8')) 
-
-    elems = eval(xpath, document)
-    pathL = L(xpath)
-    print(pathL)
-    new_xpaths = RobulaPlus(xpath, elems, pathL[::-1], document)
-    # filter out all xpaths with star as final check 
     filtered = []
-    for xp in new_xpaths: 
-        if not xp.startswith("//*"): 
-            filtered.append(xp)
+    if args_flag == "XPATH":
+        elems = eval(xpath, document)
+        pathL = L(xpath)
+        print(pathL)
+        new_xpaths = RobulaPlus(xpath, elems, pathL[::-1], document)
+        # filter out all xpaths with star as final check 
+        for xp in new_xpaths: 
+            if not xp.startswith("//*"): 
+                filtered.append(xp)
 
-    print("OVERALL XPATHS FOUND: ", new_xpaths)
-    print("FILTERED XPATHS FOUND: ", filtered)
+        print("OVERALL XPATHS FOUND: ", new_xpaths)
+        print("FILTERED XPATHS FOUND: ", filtered)
+    else:  
+        xpaths = getAbsXpaths(document, xpath)
+        print(len(xpaths))
+        for i,xp in enumerate(xpaths):
+            elems = eval(xp, document)
+            pathL = L(xp)
+            print("Iteration %d" % (i))
+            new_xpaths = []
+            try: 
+                new_xpaths = RobulaPlus(xpath, elems, pathL[::-1], document)
+            except TimeoutError:
+                continue
+            # filter out all xpaths with star as final check 
+            for xp2 in new_xpaths: 
+                if not xp2.startswith("//*"): 
+                    filtered.append(xp2)
+            # print("ABS XPATH: %s" % (xp))
+            # print("OVERALL XPATHS FOUND: ", new_xpaths)
+            print("FILTERED XPATHS FOUND: ", filtered)
 
-    # TAKING ALL URLS FROM FIRST XPATH FROM FILTERED
-    # with open("mfa-urls.txt", "w") as f: 
-    #     xpath = filtered[0]
-    #     elems = eval(xpath, document)
-    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-    #     for elem in elems: 
-    #         url = elem.split("href=")
-    #         f.write(url[1])
+    with open(args.output, "w") as f: 
+        for line in filtered:
+            f.write(line + "\n")
 
-    # TAKING ALL ps FROM FILTERED     
-    # with open("desc.txt", "w") as f: 
-    #     xpath = filtered[0]
-    #     elems = eval(xpath, document)
-    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-    #     for elem in elems: 
-    #         url = elem.split("<p>")
-    #         f.write(url[1])
 
     # DATES
     # with open("logs/artsboston/title.txt", "w") as f: 
@@ -287,13 +308,20 @@ def main():
     #     for elem in elems: 
     #         f.write(elem + "\n")
     #     print("FOUND %d ELEMENTS FROM OUR MORE GENERAL XPATH" % (len(elems)))
-    xpath = filtered[0]
-    elems = eval(xpath, document)
-    elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-    for elem in elems: 
-        print(elem)
-    driver.close()
-    driver.quit()
+    if args.html_output:
+        xpath = filtered[0]
+        elems = eval(xpath, document)
+        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+        with open(args.html_output, "w") as f:
+            for elem in elems: 
+                f.write(elem + "\n")
+    else: 
+        xpath = filtered[0]
+        elems = eval(xpath, document)
+        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+        with open(args.html_output, "w") as f:
+            for elem in elems: 
+                print(elem)
     # exit(1) # So Firefox Headless can close 
 
 if __name__ == '__main__':
@@ -307,9 +335,3 @@ if __name__ == '__main__':
 
 # UMBRELLA ARTS XPATHS FOUND 
 # title       : //span[@class="field-content"]/a
-    
-
-# EVERYTHING IN BETWEEN >< BUT NOT HAVING ANOTHER > INSIDE: (?<=\>)[^>]+(?=\<)
-# Dates REGEX: (\>\w*\D\d+\s*\<)
-# Title/Description REGEX: (\>\w*\D+\s*\<) (Will miss numbers, sadly)
-# Image: 

@@ -1,0 +1,10 @@
+//li[@style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"]/a/span
+//h2[@data-lineheight="19.5px"]/a
+//li[@style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"]/a/span
+//h2[@data-lineheight="19.5px"]/a
+//li[@style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"]/a/span
+//h2[@data-lineheight="19.5px"]/a
+//li[@style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"]/a/span
+//h2[@data-lineheight="19.5px"]/a
+//li[@style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"]/a/span
+//h2[@data-lineheight="19.5px"]/a
