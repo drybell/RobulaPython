@@ -11,7 +11,7 @@ import re
 from absolute_xpath import getAbsXpaths
 from timeout import timeout, TimeoutError
 
-TARGET = 2
+TARGET = 4
 XLIST_TARGET = 100
 XLIST_RETURN = 10
 blacklist_tags = ['href', 'id', 'role', 'type']
@@ -183,8 +183,9 @@ def RobulaPlus(xpath, elems, pathL, doc):
     # global XLIST_TARGET, XLIST_RETURN
     xpath_list = []
     reverseL = pathL[::-1]
+    print("IM HERE BEFORE")
     for elem in elems:
-        # print("IM HERE")
+        print("IM HERE")
         stringified = html.tostring(elem).decode('utf-8')
         # print("ELEM: " + stringified)
         XList = ["//*"]
@@ -218,6 +219,7 @@ def RobulaPlus(xpath, elems, pathL, doc):
             for t in temp[::-1]: 
                 if generalLocates(t, doc, stringified):
                     xpath_list.append(t)
+                    print("CURRENT XPATH LIST: ", xpath_list)
                     if len(xpath_list) == TARGET: 
                         return xpath_list
                 else: 
@@ -272,7 +274,6 @@ def main():
         for xp in new_xpaths: 
             if not xp.startswith("//*"): 
                 filtered.append(xp)
-
         print("OVERALL XPATHS FOUND: ", new_xpaths)
         print("FILTERED XPATHS FOUND: ", filtered)
     else:  
@@ -288,33 +289,38 @@ def main():
             except TimeoutError:
                 continue
             # filter out all xpaths with star as final check 
-            for xp2 in new_xpaths: 
-                if not xp2.startswith("//*"): 
-                    filtered.append(xp2)
+            if new_xpaths is not None:
+                for xp2 in new_xpaths: 
+                    if not xp2.startswith("//*"): 
+                        filtered.append(xp2)
             # print("ABS XPATH: %s" % (xp))
-            # print("OVERALL XPATHS FOUND: ", new_xpaths)
+            # print("OVERALL XPATHS FOUND: ", new_xpaths) 
             print("FILTERED XPATHS FOUND: ", filtered)
 
+    final_list = [] 
+    for item in filtered: 
+        if item not in final_list: 
+            final_list.append(item)
+
     with open(args.output, "w") as f: 
-        for line in filtered:
+        for line in final_list:
             f.write(line + "\n")
-
-
-    # DATES
-    # with open("logs/artsboston/title.txt", "w") as f: 
-    #     xpath = filtered[0]
-    #     elems = eval(xpath, document)
-    #     elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-    #     for elem in elems: 
-    #         f.write(elem + "\n")
-    #     print("FOUND %d ELEMENTS FROM OUR MORE GENERAL XPATH" % (len(elems)))
+        
     if args.html_output:
-        xpath = filtered[0]
-        elems = eval(xpath, document)
-        elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-        with open(args.html_output, "w") as f:
-            for elem in elems: 
-                f.write(elem + "\n")
+        lens = []
+        for i,item in enumerate(final_list): 
+            xpath = item
+            elems = eval(xpath, document)
+            elems = [html.tostring(elem).decode('utf-8') for elem in elems]
+            lens.append(len(elems))
+            with open(args.html_output, "a") as f:
+                f.write("Score: %d\n" % (len(elems)))
+                for elem in elems: 
+                    f.write(elem + "\n")
+                f.write("\n")
+        best_index = lens.index(max(lens))
+        print("Best XPATH found is: %s" % (final_list[best_index]))
+
     else: 
         xpath = filtered[0]
         elems = eval(xpath, document)
