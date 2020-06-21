@@ -19,3 +19,6 @@ text overhead found within example log txt files like mfa-title.txt
 
 ## June 20th 2020 
 Able to strip all unnecessary html from output logs using simple regex. A little issue with handling UTF-8 encodings of right double quotes, currently ignoring any errors (\x9d is the weirdest encoding we've gotten). We tested on the current log data and outputted "fixed" versions of the logs. Still working on generating absolute xpaths to feed Robula. 
+
+## June 21 2020 
+We added absolute_xpath.py to generate absolute xpaths given a piece of text and a url. Further functionality could include testing with id, class, tag_name, and links as well. We integrated absolute_xpath.py to boilerplate (the -t flag) for using this new tool alongside our Robula implementation. We have done some minor unit tests, and found some decent results when testing with text that exists within the page. A fatal error occured at the end of our session, which we believe could have something to do with the timeout library. Restructuring our timing system with Robula and the text flag will ensue. Also added output flags to generate log files (xpaths and scraped html)
