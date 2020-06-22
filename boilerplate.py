@@ -183,9 +183,10 @@ def RobulaPlus(xpath, elems, pathL, doc):
     # global XLIST_TARGET, XLIST_RETURN
     xpath_list = []
     reverseL = pathL[::-1]
-    print("IM HERE BEFORE")
+    # print("IM HERE BEFORE")
+    # print(elems)
     for elem in elems:
-        print("IM HERE")
+        # print("IM HERE")
         stringified = html.tostring(elem).decode('utf-8')
         # print("ELEM: " + stringified)
         XList = ["//*"]
@@ -219,7 +220,7 @@ def RobulaPlus(xpath, elems, pathL, doc):
             for t in temp[::-1]: 
                 if generalLocates(t, doc, stringified):
                     xpath_list.append(t)
-                    print("CURRENT XPATH LIST: ", xpath_list)
+                    # print("CURRENT XPATH LIST: ", xpath_list)
                     if len(xpath_list) == TARGET: 
                         return xpath_list
                 else: 
@@ -278,7 +279,7 @@ def main():
         print("FILTERED XPATHS FOUND: ", filtered)
     else:  
         xpaths = getAbsXpaths(document, xpath)
-        print(len(xpaths))
+        print(xpaths)
         for i,xp in enumerate(xpaths):
             elems = eval(xp, document)
             pathL = L(xp)

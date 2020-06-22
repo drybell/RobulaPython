@@ -21,7 +21,15 @@ document = html.fromstring(page)
 def getAbsXpaths(document, text):
     tree = etree.ElementTree(document)
     e = document.xpath('//*[contains(text(),' + '"' + text + '")]')
-    return ["//*" + tree.getpath(sub) for sub in e]
+    results = [tree.getpath(sub) for sub in e]
+    filtered = []
+    for sub in results:
+        if "/html/body" in sub: 
+            sub = sub.replace("/html/body", "//*")
+            filtered.append(sub)
+        else: 
+            filtered.append("//*" + sub)
+    return filtered
 
 driver.close()
 

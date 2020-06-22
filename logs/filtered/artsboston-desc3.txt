@@ -1,2 +1,2 @@
-//li[@class="menu-museums"]/a
 //h2[@class="category-ttl"]/a
+//div[@class="category-t"]/p
