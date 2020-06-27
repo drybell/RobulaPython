@@ -11,7 +11,7 @@ We have been working to remove the task of finding that initial absolute xpath, 
 Our current version allows the user to utilize the -t flag in boilerplate.py (name-change inbound) and pass in a keyword that exists within the site, and our scripts will try and find anything related to that keyword 
 
 # Flag Options: 
-![helpscreen](./images/help-screen.png)
+![help-screen](./images/help-screen.png)
 
 # How to Run: 
 
@@ -24,13 +24,15 @@ We highlight the most used tools below.
 ### Pass in a URL and Keyword and print xpaths to a specified location, html results in another location
 `python3 boilerplate.py -u https://a-url-that-you-like.com -t "Text" -o /logs/filtered/location -o2 /logs/location/title.txt`
 
+![boiler](./images/sample-boiler.png)
+
 **Note:** The -o2 flag allows the user to save html scraped using Robula's generated xpaths. Our current iteration saves multiple attempts seperated by a SCORE:. You can filter out the html elements and recover the bare text by running: 
 
 `python3 get_raw_text.py -r /path/to/file.txt -o /path/to/outputfile.txt`
 
 If you want to get fancy, we have an experimental -f flag that catches some faulty UTF-8 encodings and regenerates the text that your website may have. Here's the flag breakdown for get_raw_text: 
 
-![helpscreen2](./images/help-screen2.png)
+![help-screen2](./images/help-screen2.png)
 
 We also have a function that you can use to filter out html (if you don't want it as a command-line tool). Read inside get_raw_text if interested. 
 

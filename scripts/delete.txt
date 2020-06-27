@@ -1,0 +1,3722 @@
+Working url: https://brooklineartscenter.com/events/
+Working text xpath: //*[contains(text(),"June 19")]
+['//*/div/div[2]/div[2]/main/div/section/div/div/div/div[2]/div[3]/div[2]/div[1]/div/div[2]/div[1]/div/div[1]/span[1]']
+Iteration 0
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'id': 'tribe-events-content', 'class': ['tribe-events-list']}
+{'class': ['tribe-events-loop']}
+{'class': ['tribe-events-loop']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-loop']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'id': 'post-6264', 'class': ['type-tribe_events', 'post-6264', 'tribe-clearfix', 'tribe-events-first']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-has-featured-image']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['author', 'location']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['updated', 'published', 'time-details']}
+{'class': ['fusion-tribe-secondary-info']}
+{'class': ['tribe-events-event-meta', 'vcard']}
+Robula could not find any xpaths in time. Try again...

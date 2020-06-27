@@ -106,6 +106,13 @@ xpath = ROBULA+(xpath_example, soup.html)
             L = 16 
             OUTPUT ==> //*/h2[contains(text(), 'Ceramics at Home – June July – Monday – Julie Fox')]
 
+# MFA XPATHS FOUND 
+# title       : //a[@class="url"]/text()
+# description : //div[3][@class="fusion-post-content-container"]
+# date        : //span[1][@class="tribe-event-date-start"]
+
+# UMBRELLA ARTS XPATHS FOUND 
+# title       : //span[@class="field-content"]/a
 
 
 

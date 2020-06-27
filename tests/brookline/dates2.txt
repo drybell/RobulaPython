@@ -1,0 +1,6 @@
+Score: 4
+<span class="tribe-event-date-start">June 19</span> - 
+<span class="tribe-event-date-end">September 1</span>		
+<span class="tribe-event-date-start">October 1, 2020</span> - 
+<span class="tribe-event-date-end">September 30, 2021</span>		
+

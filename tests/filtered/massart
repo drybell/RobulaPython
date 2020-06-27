@@ -1,0 +1,3 @@
+//h3[@class="summary"]/a
+//div[@class="item_content_featured"]/h4
+//div[@class="item_content_medium"]/h4

@@ -1,0 +1,4 @@
+//td[@class="active"]/a
+//td[@class="active"]/a/span
+//div[@class="block__content"]/p
+//div[@class="block__content"]/p/a

@@ -1,6 +1,6 @@
 # Daniel Ryaboshapka and Sam Chung 
 # Robula+ Implementation in Python 3.7 
-# Instead of Robula+, its Robula-, since we are outputting more generic xpaths 
+# Instead of Robula+, its Robula-  
 
 from bs4 import BeautifulSoup 
 from selenium import webdriver 
@@ -15,35 +15,28 @@ TARGET = 4
 XLIST_TARGET = 100
 XLIST_RETURN = 10
 blacklist_tags = ['href', 'id', 'role', 'type']
-TIMEOUT = 5
+TIMEOUT = 10
 
 # ALL COMMENTS ABOVE TRANSITION FUNCTIONS PROVIDED BY ROBULA+ AUTHORS 
-# INSERT LINK HERE
+# WE ADAPTED OUR TRANSFORMATION CODE FROM THE ROBULA+ ALGORITHM
 
-### NAME DEFINITIONS 
-#  xp = The XPATH expression to specialize --> //td 
-#  N  = The length (in nodes/levels) of variable xp --> //td => N=1
-#														//*//td => N=2
-#  L  = The list of the ancestors of target elem e in the considered DOM,
-#       starting and including e 
-### 
+#########################################################################
+###                        NAME DEFINITIONS                           ###
+###                                                                   ###
+###  xp = The XPATH expression to specialize --> //td                 ###
+###  N  = The length (in nodes/levels) of variable xp                 ###
+###                |--> //td => N=1                                   ###
+###						//*//td => N=2                                ### 
+###  L  = The list of the ancestors of target elem e in the           ### 
+###                 considered DOM, starting and including e          ###
+###                                                                   ###
+#########################################################################
 
-### DESIGN CHOICES ### 
-# 
-# WE ARE TRYING TO MAKE GENERIC ROBUST XPATHS, NOT JUST A RELATIVE FROM ABSOLUTE THAT 
-# HAS THE SAME AMOUNT OF SPECIFIC INFO
-# 
-# EXAMPLE AND PROTOTYPE WORKFLOW: if i like to peruse newartcenter.org, 
-#                                 and I know that there is an events page, let's pull the
-#                                 first event as the xpath from inspect element and shove it
-#                                 into Russian Robula, or our Robula when it's functional
-#                                 this can be done by any human. 
-#                                 WHAT WE WANT IS THE GENERIC XPATH THAT GIVES US ALL OF THE EVENTS 
-# 
-# WE WANT TO ADD TRANSFCLASS AND REMOVE ANY DETAILED TRANSFORMATIONS LIKE TRANSFADDTEXT AND ADDPOSITION
-# ADD WEIGHTS TO CREATE A PRIORITY LIST WITH BEST CHOICES FOR GENERIC XPATH AT THE FRONT OF THE LIST
+#########################################################################
+###                        TRANFORMATIONS                             ###
+###                                                                   ###
+#########################################################################
 
-### 7 TRANFORMATIONS
 
 # Precondition: Xpath xp starts with //* 
 #       Action: replace initial * with tag name of the DOM elem L.get(N)
@@ -60,10 +53,8 @@ def transfConvertStar(xp, tagname):
 #				to the higher level of xp
 #      Example: INPUT:  xp = //tr/td & L.get(2).getAttributes() = {name: 'data', class: 'table-row'}
 #				OUTPUT: //tr[@name='data']/td & //tr[@class='table-row']/td
-
-
+# TODO: Maybe make attribute parsing a function? Esp with blacklist involved...
 def transfAddAttribute(xp, attributes, tagname):
-    # parse attributes 
     global blacklist_tags
     temp = xp.replace("//", "")
     elements = temp.split("/")
@@ -73,19 +64,23 @@ def transfAddAttribute(xp, attributes, tagname):
         xpaths.append('//' + target + xp[(2+len(target)):])
         return xpaths
     attrstrings = [] 
-    # TODO: Maybe make attribute parsing a function? Esp with blacklist involved...
     seen_keys = []
     if attributes != []: 
         for key in attributes: 
             if key not in blacklist_tags and key not in seen_keys:
                 if type(attributes[key]) == list:
-                    attrstrings.append("[@" + key + "=\"" + attributes[key][0] + "\"]")
+                    if key == "class": 
+                        full_attribute = ""
+                        for item in attributes[key]:
+                            full_attribute += item + " "
+                        full_attribute = full_attribute[:-1]
+                        attrstrings.append("[@" + key + "=\"" + full_attribute + "\"]")
+                    else:
+                        attrstrings.append("[@" + key + "=\"" + attributes[key][0] + "\"]")
                 else: 
                     attrstrings.append("[@" + key + "=\"" + attributes[key] + "\"]")
             seen_keys.append(key)
         for attr in attrstrings: 
-            # print("TARGET: %s ATTR: %s ENDPOINT: %s" % (target, attr, xp[(2+len(target)):] ))
-            # print('//' + target + attr + xp[(2+len(target)):])
             xpaths.append('//' + target + attr + xp[(2+len(target)):])
     return xpaths
 
@@ -115,15 +110,16 @@ def transfAddLevel(xp, n, l):
     else: 
         return xp 
 
-# assert transfAddLevel('') == 
-
-
-### AUXILARY FUNCTIONS 
+#########################################################################
+###                        AUXILIARY FUNCTIONS                        ###
+###                                                                   ###
+#########################################################################
 
 # return the depth of the element 
 def N(xp): 
     return len(xp.split("/")) - 2
 
+# return the height of the whole path 
 def L(xpath): 
     temp = xpath.replace("//", "")
     elements = temp.split("/")
@@ -131,7 +127,6 @@ def L(xpath):
         elements.pop()
     
     return elements
-
 
 # returns the element in dom selected by the xpath locator xpath
 def eval(xpath, document):
@@ -141,57 +136,48 @@ def eval(xpath, document):
 # Has to be changed to uniquely locates as we are making a generic xpath
 # Algorithm: If the xpath generated sends us back the same list of elems,
 # then the xpath can generalize to finding a group of elems
+# Query the document using the xpath passed in
+# if the result is similar to elems, then return True,
+# else return False 
+# TESTING REQUIRED, BUT BEING 1 or 2 off is our current design choice 
+# IF IT HAS NO ATTRIBUTES TO WORK WITH, IT IS TOO GENERAL FOR US 
+# print("IS %s LOCATABLE IN THE DOM?" % (xpath))
+# TODO: Fix documentation
 def generalLocates(xpath, document, elem):
-    # Query the document using the xpath passed in
-    # if the result is similar to elems, then return True,
-    # else return False 
-    # TESTING REQUIRED, BUT BEING 1 or 2 off is our current design choice 
-    # IF IT HAS NO ATTRIBUTES TO WORK WITH, IT IS TOO GENERAL FOR US 
-    # print("IS %s LOCATABLE IN THE DOM?" % (xpath))
     if "[" not in xpath: 
-        # print("NO")
         return False
     else:
         elems = eval(xpath, document)
         elems = [html.tostring(elem).decode('utf-8') for elem in elems]
-        # print("XPATH: " + xpath)
-        # print("ELEM: " + elem)
-        # print("ELEMS: ", elems)
-        # print(elem in elems)
         return elem in elems
 
+# Parse tagname and remove positions first 
+# TODO: Add documentation
 def getAttributes(elem, tagname):
-    # Parse tagname and remove positions first 
     fixed = transfRemovePosition(tagname)
     soup = BeautifulSoup(elem, 'lxml')
     tag = soup.find(fixed)
-
     if tag == None:
-        # tags = soup.find("class")
         return [] 
     else:
         return tag.attrs
 
+# TODO: Add documentation
 def buildXPath(xpath_list):
     string = "//"
     for elem in xpath_list:
         string += elem + "/"
     return string[:-1]
 
+# TODO: Add documentation and threading functionality
 @timeout(TIMEOUT)
 def RobulaPlus(xpath, elems, pathL, doc): 
-    # global XLIST_TARGET, XLIST_RETURN
     xpath_list = []
     reverseL = pathL[::-1]
-    # print("IM HERE BEFORE")
-    # print(elems)
     for elem in elems:
-        # print("IM HERE")
         stringified = html.tostring(elem).decode('utf-8')
-        # print("ELEM: " + stringified)
         XList = ["//*"]
         while True:
-            # print("XPATHLIST: ", XList)
             xp = XList.pop(0) # pop front of list
             temp = []
             currN = pathL[N(xp) - 1]
@@ -201,31 +187,28 @@ def RobulaPlus(xpath, elems, pathL, doc):
                 new_elem = html.tostring(new_elems[0]).decode('utf-8')
             xp1 = transfConvertStar(xp, currN)
             temp.append(xp1)
-            # print("BEFORE ADD ATTRIBUTES: ", temp)
             xp2 = transfAddAttribute(xp1, getAttributes(new_elem, currN), currN)
 
             if len(xp2) >= 1:
                 for x in xp2: 
                     temp.append(x)
                     temp.append(transfAddLevel(x, N(x), len(pathL)))
-                    # print("AFTER ADD ATTRIBUTES: ", temp)
             else:             
                 temp.append(transfAddLevel(xp1,N(xp1), len(pathL)))
-                # print("AFTER ADD ATTRIBUTES ELSE: ", temp)
 
             for i, item in enumerate(temp): 
                 temp[i] = transfRemovePosition(item)
-
-            # print("TEMP: ", temp[::-1])
+            # print(temp)
             for t in temp[::-1]: 
                 if generalLocates(t, doc, stringified):
                     xpath_list.append(t)
-                    # print("CURRENT XPATH LIST: ", xpath_list)
                     if len(xpath_list) == TARGET: 
                         return xpath_list
                 else: 
                     XList.append(t)
 
+# Argument parsing function, returns the arguments passed in 
+# TODO: Add boolean flag to just return the highest scoring xpath and its html 
 def Parse():
     parser = argparse.ArgumentParser(description='First attempt to auto-generate unique descriptive xpaths')
 
@@ -241,6 +224,7 @@ def Parse():
     else:
         return args
 
+# TODO: Clean up main 
 def main(): 
     args = Parse()
     url = args.url
@@ -262,9 +246,7 @@ def main():
     page = driver.execute_script("return document.body.innerHTML").encode('utf-8')
     driver.close()
     driver.quit()
-    # soup = BeautifulSoup(page, "html.parser")
     document = html.fromstring(page)
-    # print(html.tostring(document).decode('utf-8')) 
     filtered = []
     if args_flag == "XPATH":
         elems = eval(xpath, document)
@@ -289,19 +271,20 @@ def main():
                 new_xpaths = RobulaPlus(xpath, elems, pathL[::-1], document)
             except TimeoutError:
                 continue
-            # filter out all xpaths with star as final check 
             if new_xpaths is not None:
                 for xp2 in new_xpaths: 
                     if not xp2.startswith("//*"): 
-                        filtered.append(xp2)
-            # print("ABS XPATH: %s" % (xp))
-            # print("OVERALL XPATHS FOUND: ", new_xpaths) 
+                        filtered.append(xp2) 
             print("FILTERED XPATHS FOUND: ", filtered)
 
     final_list = [] 
     for item in filtered: 
         if item not in final_list: 
             final_list.append(item)
+    
+    if len(final_list) == 0:
+        print("Robula could not find any xpaths in time. Try again...")
+        exit(1)
 
     with open(args.output, "w") as f: 
         for line in final_list:
@@ -333,12 +316,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# MFA XPATHS FOUND 
-# title       : //a[@class="url"]/text()
-# description : //div[3][@class="fusion-post-content-container"]
-# date        : //span[1][@class="tribe-event-date-start"]
-
-# UMBRELLA ARTS XPATHS FOUND 
-# title       : //span[@class="field-content"]/a

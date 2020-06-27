@@ -1,0 +1,3 @@
+//select[@onchange="this.form.submit();"]/option
+//select[@name="seasonid"]/option
+//p[@class="c-col-subtitle"]/strong

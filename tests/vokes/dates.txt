@@ -1,0 +1,17 @@
+Score: 11
+<span style="font-size:26px;">Fun Home</span>
+<span style="font-size:20px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Based on the graphic memoir by Alison Bechdel</span></span>
+<span style="font-size:20px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Directed by Donnie Baillargeon</span></span>
+<span style="font-size:20px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Musical Direction by Howard Boles</span></span>
+<span style="font-size:20px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span class="wixGuard">&#226;&#128;&#139;</span></span></span>
+<span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">November 8 - November 23, 2019</span>
+<span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Friday&#160;Nov. 8 &amp; Saturday Nov. 9 at 8:00 pm<br>
+Saturdays Nov. 9 - 23 at 2:00 pm<br>
+Thursdays - Saturdays Nov. 14 - 23 at 8:00 pm</span>
+<span style="font-size:26px;">Ripcord</span>
+<span style="font-size:20px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span class="wixGuard">&#226;&#128;&#139;</span></span></span>
+<span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">February 21 - March 7, 2020</span>
+<span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Friday&#160;Feb. 21 &amp; Saturday Feb. 22 at 8:00 pm<br>
+Saturdays Feb. 22 - March 7 at 2:00 pm<br>
+Thursdays - Saturdays Feb. 27 - March 7 at 8:00 pm</span>
+
