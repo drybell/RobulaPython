@@ -15,7 +15,8 @@ Our current version allows the user to utilize the -t flag in boilerplate.py (na
 
 # How to Run: 
 
-All the important scripts are found within the `scripts` folder. `cd scripts` after cloning this repo to run some commands 
+All the important scripts are found within the `scripts` folder. `cd scripts` after cloning this repo to run some commands.
+
 We highlight the most used tools below.
 
 ### Pass in a URL and Keyword and print results to screen (BETA)
@@ -26,7 +27,7 @@ We highlight the most used tools below.
 
 ![boiler](./images/sample-boiler.png)
 
-**Note:** The -o2 flag allows the user to save html scraped using Robula's generated xpaths. Our current iteration saves multiple attempts seperated by a SCORE:. You can filter out the html elements and recover the bare text by running: 
+**Note:** The -o2 flag allows the user to save scraped html found using Robula's generated xpaths. Our current iteration saves multiple attempts seperated by SCORE. You can filter out the html elements and recover the bare text by running: 
 
 `python3 get_raw_text.py -r /path/to/file.txt -o /path/to/outputfile.txt`
 
