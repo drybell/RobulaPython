@@ -1,0 +1,71 @@
+Score: 2
+<span style="float: left; display: inline-block">Sign Up for Updates!</span> 
+<span class="homesignup-open">
+                    <img src="/UI/Images/ArrowSignUp.png"></span>
+            
+
+Score: 2
+<span style="float: left; display: inline-block">Sign Up for Updates!</span> 
+<span class="homesignup-open">
+                    <img src="/UI/Images/ArrowSignUp.png"></span>
+            
+
+Score: 12
+<div class="homesignup-close">
+                    <img src="/UI/Images/ButtonClose.png" width="25" height="25">
+                </div>
+                
+<div class="signup-title">Sign Up for Updates!</div>
+                
+<div style="display: inline-block; width: 64%; padding-right: 1%; padding-top: 10px">
+                    <label for="fieldEmail">Email Address </label>
+                    <label class="error">*</label>
+                    <br>
+                    <input id="SignupEmail" type="email" class="fullwidth">
+                </div>
+                
+<div style="display: inline-block; width: 34%; padding-top: 10px">
+                    <label for="fieldName">Zip/Postal Code </label>
+                    <label class="error">*</label>
+                    <br>
+                    <input id="SignupZip" type="text" class="fullwidth">
+                </div>
+                
+<div style="display: inline-block; width: 49%; padding-right: 1%; padding-top: 10px">
+                    <label for="fieldName">First Name </label>
+                    <label class="error">*</label>
+                    <br>
+                    <input id="SignupFirstName" type="text" class="fullwidth">
+                </div>
+
+                
+<div style="display: inline-block; width: 49%; padding-left: 1%; padding-top: 10px">
+                    <label for="fieldName">Last Name </label>
+                    <label class="error">*</label>
+                    <br>
+                    <input id="SignupLastName" type="text" class="fullwidth">
+                </div>
+
+                
+<div style="clear: both"></div>
+                
+<div style="padding-top: 10px">
+                    <input type="checkbox" id="SignupChkTerms">I agree to the <a class="orange-link" data-fancybox="" data-src="/Terms-and-Conditions.aspx" href="javascript:;" data-options='{"type" : "iframe", "iframe" : {"preload" : false, "css" : {"height" : "80%"}}}'>Terms and Conditions</a>
+                    <label class="error">*</label>
+                </div>
+                
+<div style="padding-top: 10px">
+
+                    <input type="text" id="Txtimagcodenews" name="txtimgcodenews" autocomplete="off" placeholder=" Enter Captcha Code" class="fullwidth captcha" style="margin-bottom: 7px">
+                    <img src="/CImage.aspx" id="captchanews" alt="captcha" class="image" style="display: inline-block; width: 200px; font-size: 18px">
+                    <label class="error">*</label>
+                </div>
+                
+<div class="signup-thankyou">Thanks!</div>
+                
+<div id="signupsubmit" class="signup-button">Submit</div>
+
+                
+<div id="targetDiv"></div>
+            
+

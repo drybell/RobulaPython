@@ -1,0 +1,5 @@
+//a[@title="Home"]/span
+//a[@class="site-branding__name"]/span
+//a[@rel="home"]/span
+//div[@class="block__content"]/div
+//a[@title="University of Washington"]/span

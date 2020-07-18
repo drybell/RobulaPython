@@ -1,0 +1,2 @@
+//div[@itemtype="https://schema.org/PostalAddress"]/span
+//div[@itemscope=""]/span

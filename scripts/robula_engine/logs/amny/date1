@@ -1,0 +1,2 @@
+//div[@class="entry-image"]/figure
+//figure[@class="wp-block-image"]/figcaption

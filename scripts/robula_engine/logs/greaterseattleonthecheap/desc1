@@ -1,0 +1,2 @@
+//div[@data-content-ads-inserted="true"]/p
+//div[@class="entry-content"]/p

@@ -1,0 +1,29 @@
+Score: 9
+<div class="menu-trigger" style="width: 110.833px; height: 95px;"><span class="hamburger"><i>Open Menu</i><i></i><i></i></span></div>
+    
+<div class="mobile-menu artsci-closed">
+        <div class="search global-search clearfix">
+        </div>
+        <div class="primary-nav">
+        </div>
+        <div class="affinity-nav">
+        </div>
+    </div>  
+<div role="region" aria-labelledby="calendar_date_selector">
+      <h2 class="trumba-offscreen" id="calendar_date_selector">Select a Date on the Calendar</h2>
+      <script type="text/javascript">$Trumba.addSpud({webName: "sea_artsci", spudType: "datefinder", teaserBase: "https://artsci.washington.edu/events", });</script><div id="trumba.spud.1" style="overflow: hidden; height: 157px;"><iframe src="javascript:'&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body%20style=background-color:transparent&gt;&lt;/body&gt;&lt;/html&gt;'" id="trumba.spud.1.iframe" name="trumba.spud.1.iframe" style="border-style:none;background-color:transparent;" scrolling="no" width="100%" height="157">Please update your browser to view the iframe content.</iframe></div></div>  
+<div role="region" aria-labelledby="event_type_filter">
+      <h2 class="trumba-offscreen" id="event_type_filter">Filter Events by Types</h2>
+      <script type="text/javascript">$Trumba.addSpud({webName: "sea_artsci", spudType: "filter" , spudConfig: "Type of Event", teaserBase: "https://artsci.washington.edu/events", });</script><div id="trumba.spud.2" style="overflow: hidden; height: 35px;"><iframe src="javascript:'&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body%20style=background-color:transparent&gt;&lt;/body&gt;&lt;/html&gt;'" id="trumba.spud.2.iframe" name="trumba.spud.2.iframe" style="border-style:none;background-color:transparent;" scrolling="no" width="100%" height="35">Please update your browser to view the iframe content.</iframe></div></div>  
+<div role="region" aria-labelledby="ongoing_event_filter">
+      <h2 class="trumba-offscreen" id="ongoing_event_filter">Include/Exclude Ongoing Events</h2>
+      <script type="text/javascript">$Trumba.addSpud({webName: "sea_artsci", spudType: "filter", teaserBase: "https://artsci.washington.edu/events", });</script><div id="trumba.spud.3" style="overflow: hidden; height: 35px;"><iframe src="javascript:'&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body%20style=background-color:transparent&gt;&lt;/body&gt;&lt;/html&gt;'" id="trumba.spud.3.iframe" name="trumba.spud.3.iframe" style="border-style:none;background-color:transparent;" scrolling="no" width="100%" height="35">Please update your browser to view the iframe content.</iframe></div></div>  
+<div role="region" aria-labelledby="calendar_keyword_search">
+      <h2 class="trumba-offscreen" id="calendar_keyword_search">Search the Calendar(s)</h2>
+      <script type="text/javascript">$Trumba.addSpud({webName: "sea_artsci", spudType: "searchlabeled", teaserBase: "https://artsci.washington.edu/events", });</script><div id="trumba.spud.4" style="overflow: hidden; height: 57px;"><iframe src="javascript:'&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body%20style=background-color:transparent&gt;&lt;/body&gt;&lt;/html&gt;'" id="trumba.spud.4.iframe" name="trumba.spud.4.iframe" style="border-style:none;background-color:transparent;" scrolling="no" width="100%" height="57">Please update your browser to view the iframe content.</iframe></div></div>  
+<div style="height:3em;"></div>
+
+<div>&#194;&#169; 2015 University of Washington College of Arts &amp; Sciences / Seattle, Washington / <a href="http://www.washington.edu/online/privacy/">Privacy</a> / <a href="http://www.washington.edu/online/terms/">Terms of Use</a></div>
+  
+<div id="saml_login_url"><a href="/saml_login?destination=events">Staff Login</a></div>  
+

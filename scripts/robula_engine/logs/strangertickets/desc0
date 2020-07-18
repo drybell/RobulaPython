@@ -1,0 +1,2 @@
+//div[@itemprop="description"]/p
+//div[@class="event-description"]/p

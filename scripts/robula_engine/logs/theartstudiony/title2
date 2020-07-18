@@ -1,0 +1,10 @@
+//li[@class="navDropWide"]/a
+//div[@class="wrapper"]/div
+//div[@style="background: none 0% 0% repeat scroll #fcfcfc !important;"]/div
+//div[@class="g-1-1 aboutSection"]/div
+//p[@class="justify text-slider"]/a
+//div[@class="entry-content"]/p/script
+//div[@class="comment-container"]/div
+//div[@class="content"]/p
+//div[@class="footerAddress"]/p/span
+//div[@class="footerAddress"]/p

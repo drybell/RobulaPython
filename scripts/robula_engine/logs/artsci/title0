@@ -1,0 +1,2 @@
+//a[@title=""]/span
+//div[@class="block__content"]/p/a

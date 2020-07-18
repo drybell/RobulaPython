@@ -1,0 +1,6 @@
+//div[@style="
+    float: left;
+"]/a
+//div[@class="main-class col-md-12 col-sm-6 col-md-8 hidden-sm hidden-xs"]/a
+//ul[@class="wsmenu-submenu"]/li/a
+//div[@class="col-xs-12 col-sm-4 col-md-4"]/a

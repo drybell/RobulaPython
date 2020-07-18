@@ -1,0 +1,3 @@
+//div[@class="alert__inner"]/p
+//div[@class="newsletter-section__left"]/a
+//address[@class="newsletter-section__address"]/p

@@ -1,0 +1,189 @@
+Score: 1
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "description": "In this inspiring, entertaining, and creatively engaging after-school kids art class, your child will build self-confidence and have FUN, while creating artistic masterpieces with our warm and enthusiastic art instructors.",
+  "name": "{{contentholder_1.pagename.name}}",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.00",
+    "bestRating": "5",
+    "reviewCount": "11"
+  },
+  "review": [
+      {
+      "@type": "Review",
+      "author": "tahmina umer",
+      "datePublished": "2018-11-15",
+      "description": "Hey, happy Artwork. Thanks! ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "John David Perry",
+      "datePublished": "2018-11-14",
+      "description": "A fantastic studio with amazing teachers. When you first walk into the studio you are immediately embraced with a warm and comfortable feeling that opens your mind up to the creative process.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Miriam G.",
+      "datePublished": "2018-11-14",
+      "description": "A few months back, my friends organized a paint and sip party for me at the Art Studio NY. Had a great time. Michelle, the events coordinator, was really great at making sure everyone was comfortable and taken care of. The party was a lot of fun, and I really appreciated the professionalism of the staff and art teacher.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Khalil Hall",
+      "datePublished": "2018-11-14",
+      "description": "Sophia and Jessie did a phenomenal job leading our customized painting class for our real estate firm, and working with the team at The Art Studio NY was a breeze. Everyone who attended had a great experience, and we look forward to the next time!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Stephanie",
+      "datePublished": "2018-11-14",
+      "description": "This the second team building event we have had with The Art Studio NY at our hedge fund. Our core executive staff consists of 40 people, and most of us don&#226;&#128;&#153;t know how to paint or draw! Rebecca, Michelle and all of the instructors brought out the artist in all of us. They went above and beyond to understand our goals and create an outstanding experience. Their attention to detail in planning our event combined with their step by step art instruction impressed my entire team. Our paintings are hanging in our offices and we are all still talking about hoe memorable this experience was for us.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Robin",
+      "datePublished": "2017-06-19",
+      "description": "I hosted my annual company party for my interior design firm here, and it was a huge success! We had SO much fun, we are all still talking about it weeks later! Rebecca was an energetic and inspiring instructor, and Michelle was a pleasure to work with in ironing out all of the details. Everything was perfectly organized and SO customized to exactly what I wanted. We are definitely coming back!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Robert Isen",
+      "datePublished": "2016-12-10",
+      "description": "Thank you for sharing your expertise and for your patience and sensitivity. You exceeded our expectations in every way. I have not stopped drawing since we left your studio! President of Corporate Development/Chief Legal Officer, Tory Birch LLC",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "J.O.",
+      "datePublished": "2016-12-10",
+      "description": "In searching for a corporate team bonding experience, I was looking for something everyone could enjoy and learn from while still achieving our teaming goal. The Art Studio NY far exceeded anything I had anticipated. This isn't a one-size fits all program. They care about what we're looking to achieve. Rebecca and her team are truly interested in understanding the goals of the individuals as well as the group as a whole. Each person walked away proud of what they had accomplished and having built a stronger team relationship. This is something I will definitely be doing again! ~J.O., Partner, PricewaterhouseCoopers",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Lexi G.",
+      "datePublished": "2016-07-27",
+      "description": "I recently organized a team building event at the Art Studio NY and it was nothing short of absolutely fantastic! Not only did the owner, Rebecca, take the time to organize every minute detail with me to create the PERFECT event tailored to our company and our teams specific needs, but she made the process seem so fun and effortless! Though many members of our team were somewhat hesitant to take an art class in the beginning, by the end of our time at the Art Studio NY, we had all fallen in love with the experience and as a result, our team is still raving about it! It truly felt as though Rebecca and her amazing staff knew exactly how to make our time both unique as well as a fun learning experience, where we not only bonded as a team, but got the opportunity to create beautiful art while doing so! I believe I speak for the whole team when saying, Art Studio NY, THANK YOU for giving our company an amazing chance to not only learn something new about art, but also about ourselves!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Emet L.",
+      "datePublished": "2016-07-27",
+      "description": "I held our annual corporate event at The Art Studio NY, and I was thoroughly impressed. The customer service was beyond my expectations, and their staff created one of the most unique, inspiring and fun group events I have ever attended. Highly recommend for art classes or private events for any level. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Alexis G.",
+      "datePublished": "2016-07-27",
+      "description": "I recently organized a team building event at the Art Studio NY and it was nothing short of absolutely fantastic!!!Not only did the owner, Rebecca, take the time to organize every minute detail with me to create the PERFECT event tailored to our company and our teams' specific needs, but she made the process seem so fun and effortless! Though many members of our team were somewhat hesitant to take an art class in the beginning, by the end of our time at the Art Studio NY, we had all fallen in love with the experience and as a result, our team is still raving about it! It truly felt as though Rebecca and her amazing staff knew exactly how to make our time both unique as well as a fun learning experience, where we not only bonded as a team, but got the opportunity to create beautiful art while doing so! I believe I speak for the whole team when saying, Art Studio NY, THANK YOU for giving our company an amazing chance to not only learn something new about art, but also about ourselves!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Al Cohen",
+      "datePublished": "2011-03-25",
+      "description": "Channel your inner artist!  I always thought that I have some latent artistic talent and Rebecca let's me find it. I'm not headed to  MOMA yet, but I'm gaining an appreciation for materials and methods. Definitely worthwhile and besides, they let you drink there - isn't that how the masters did it?",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "4",
+        "worstRating": "1"
+      }
+    }
+  ]
+}</p>
+<p></script>
+
+Score: 26
+<div class="header"> <span class="name">Raia</span> commented on <span class="date">December 23, 2019</span> <span class="rating"> <img src="/CatalystImages/5stars.gif" alt="5 out of 5 stars" width="61" height="12" border="0"> </span></div> 
+<div class="content"><p>Just wanted to send a huge THANK YOU! For such a wonderful event last Friday. While we may not all be Monet, you definitely made us feel like we all had the potential ?.<br> Hope to work with you guys again soon!!<br> Happy Holidays!<br> Raia</p><div class="cmstr-out"><span class="wpcr_author_stars" data-rating="5"></span></div><span class="tval">(5/5)</span></div>
+<div class="header"> <span class="name">Meera</span> commented on <span class="date">November 5, 2019</span> <span class="rating"> <img src="/CatalystImages/5stars.gif" alt="5 out of 5 stars" width="61" height="12" border="0"> </span></div> 
+<div class="content"><p>I loved the Art Studio NY</p><div class="cmstr-out"><span class="wpcr_author_stars" data-rating="5"></span></div><span class="tval">(5/5)</span></div>
+<div class="header"><span class="name">tahmina umer</span> commented on <span class="date">15-Nov-2018 04:00 AM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content"><p>Hey,</p><p>happy Artwork.</p><p>Thanks!</p></div>
+<div class="header"><span class="name">John David Perry</span> commented on <span class="date">14-Nov-2018 09:26 AM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content">A fantastic studio with amazing teachers. When you first walk into the studio you are immediately embraced with a warm and comfortable feeling that opens your mind up to the creative process.</div>
+<div class="header"><span class="name">Miriam G.</span> commented on <span class="date">14-Nov-2018 09:24 AM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content">A few months back, my friends organized a paint and sip party for me at the Art Studio NY. Had a great time. Michelle, the events coordinator, was really great at making sure everyone was comfortable and taken care of. The party was a lot of fun, and I really appreciated the professionalism of the staff and art teacher.</div>
+<div class="header"><span class="name">Khalil Hall</span> commented on <span class="date">14-Nov-2018 09:20 AM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content">Sophia and Jessie did a phenomenal job leading our customized painting class for our real estate firm, and working with the team at The Art Studio NY was a breeze. Everyone who attended had a great experience, and we look forward to the next time!</div>
+<div class="header"><span class="name">Stephanie</span> commented on <span class="date">14-Nov-2018 09:18 AM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content">This the second team building event we have had with The Art Studio NY at our hedge fund. Our core executive staff consists of 40 people, and most of us don&#226;&#128;&#153;t know how to paint or draw! Rebecca, Michelle and all of the instructors brought out the artist in all of us. They went above and beyond to understand our goals and create an outstanding experience. Their attention to detail in planning our event combined with their step by step art instruction impressed my entire team. Our paintings are hanging in our offices and we are all still talking about hoe memorable this experience was for us.</div>
+<div class="header"><span class="name">Robin</span> commented on <span class="date">19-Jun-2017 12:14 PM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content">I hosted my annual company party for my interior design firm here, and it was a huge success! We had SO much fun, we are all still talking about it weeks later! Rebecca was an energetic and inspiring instructor, and Michelle was a pleasure to work with in ironing out all of the details. Everything was perfectly organized and SO customized to exactly what I wanted. We are definitely coming back!</div>
+<div class="header"><span class="name">Robert Isen</span> commented on <span class="date">10-Dec-2016 12:06 AM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content"><p>Thank you for sharing your expertise and for your patience and sensitivity. You exceeded our expectations in every way. I have not stopped drawing since we left your studio!</p><p>President of Corporate Development/Chief Legal Officer, Tory Birch LLC</p></div>
+<div class="header"><span class="name">J.O.</span> commented on <span class="date">10-Dec-2016 12:03 AM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content"><p>In searching for a corporate team bonding experience, I was looking for something everyone could enjoy and learn from while still achieving our &#226;&#128;&#152;teaming&#226;&#128;&#153; goal.</p><p>The Art Studio NY far exceeded anything I had anticipated. This isn&#226;&#128;&#153;t a one-size fits all program. They care about what we&#226;&#128;&#153;re looking to achieve. Rebecca and her team are truly interested in understanding the goals of the individuals as well as the group as a whole.</p><p>Each person walked away proud of what they had accomplished and having built a stronger team relationship. This is something I will definitely be doing again!</p><p>~J.O., Partner, PricewaterhouseCoopers</p></div>
+<div class="header"><span class="name">Lexi G.</span> commented on <span class="date">27-Jul-2016 07:52 PM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content"><p>I recently organized a team building event at the Art Studio NY and it was nothing short of absolutely fantastic!!!</p><p>Not only did the owner, Rebecca, take the time to organize every minute detail with me to create the PERFECT event tailored to our company and our teams&#226;&#128;&#153; specific needs, but she made the process seem so fun and effortless!</p><p>Though many members of our team were somewhat hesitant to take an art class in the beginning, by the end of our time at the Art Studio NY, we had all fallen in love with the experience and as a result, our team is still raving about it! It truly felt as though Rebecca and her amazing staff knew exactly how to make our time both unique as well as a fun learning experience, where we not only bonded as a team, but got the opportunity to create beautiful art while doing so!</p><p>I believe I speak for the whole team when saying, Art Studio NY, THANK YOU for giving our company an amazing chance to not only learn something new about art, but also about ourselves!</p></div>
+<div class="header"><span class="name">Emet L.</span> commented on <span class="date">27-Jul-2016 07:29 PM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content">I held our annual corporate event at The Art Studio NY, and I was thoroughly impressed. The customer service was beyond my expectations, and their staff created one of the most unique, inspiring and fun group events I have ever attended. Highly recommend for art classes or private events for any level.</div>
+<div class="header"><span class="name">Alexis G.</span> commented on <span class="date">27-Jul-2016 07:27 PM</span><span class="rating"><img src="/CatalystImages/5stars.gif?vs=b323.r523850-phase1" alt="5 out of 5 stars" width="61" height="12" border="0"></span></div>
+<div class="content"><p>I recently organized a team building event at the Art Studio NY and it was nothing short of absolutely fantastic!!!</p><p>Not only did the owner, Rebecca, take the time to organize every minute detail with me to create the PERFECT event tailored to our company and our teams&#226;&#128;&#153; specific needs, but she made the process seem so fun and effortless!</p><p>Though many members of our team were somewhat hesitant to take an art class in the beginning, by the end of our time at the Art Studio NY, we had all fallen in love with the experience and as a result, our team is still raving about it! It truly felt as though Rebecca and her amazing staff knew exactly how to make our time both unique as well as a fun learning experience, where we not only bonded as a team, but got the opportunity to create beautiful art while doing so!</p><p>I believe I speak for the whole team when saying, Art Studio NY, THANK YOU for giving our company an amazing chance to not only learn something new about art, but also about ourselves!</p></div>
+

@@ -1,0 +1,2 @@
+//div[@data-element-has-beginning-title="true"]/p/strong
+//div[@data-element-index="7"]/p/strong

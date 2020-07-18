@@ -1,0 +1,6 @@
+//symbol[@viewbox="0 0 100 120"]/title
+//a[@rel="home"]/span
+//a[@title="Boston Center for the Arts"]/span
+//a[@title="At Boston Center for the Arts, FeministFuturist Takes to the Web"]/p
+//a[@target="_blank"]/p
+//div[@class="col-4 tablet-col-4 footer--info"]/h4

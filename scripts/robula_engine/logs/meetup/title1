@@ -1,0 +1,2 @@
+//a[@class="eventCard--link"]/span
+//div[@class="text--ellipsisTwoLines text--sectionTitle margin--halfBottom text--secondary"]/a

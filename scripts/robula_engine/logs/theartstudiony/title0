@@ -1,0 +1,2 @@
+//form[@novalidate="novalidate"]/p/label
+//form[@class="wpcf7-form init"]/p/label
